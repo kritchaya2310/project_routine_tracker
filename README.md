@@ -8,7 +8,7 @@ This project includes a backend file and a frontend file that work together to c
 1.Backend File:
 The backend file (backend.py) includes functions for the following operations:
 
-  • Creating a new SQLite database.
+- Creating a new SQLite database.
 
   • Inserting data into the database.
 
