@@ -10,22 +10,22 @@ The backend file (backend.py) includes functions for the following operations:
 
 - Creating a new SQLite database.
 
-  • Inserting data into the database.
+- Inserting data into the database.
 
-  • Retrieving data from the database.
+- Retrieving data from the database.
 
-  • Deleting data from the database.
+- Deleting data from the database.
 
-  • Searching for data in the database.
+- Searching for data in the database.
 
 2.Frontend File:
 The frontend file (frontend.py) includes a graphical user interface created using the Tkinter library. The interface includes:
 
-  • A window for displaying the input fields and listbox.
+- A window for displaying the input fields and listbox.
 
-  • Input fields for adding and editing daily routine data.
+- Input fields for adding and editing daily routine data.
 
-  • A listbox for displaying existing data.
+- A listbox for displaying existing data.
 
 3.Adding Data:
 The user can input data into the input fields and add it to the database by clicking the "Add" button.
